@@ -2,6 +2,7 @@
  
 // I made a github! I'll put all future updates and scripts there, and will post an announcement in The Blacket Trading Hub when there is an update.
 // https://discord.gg/d2bujc2qAQ
+alert('This is Blacket-Utility')
 console.log('You should follow the github page :) https://github.com/tremblero')
  
 let printAllRarities = false // Print when you've unboxed a Epic rarity or lower?
