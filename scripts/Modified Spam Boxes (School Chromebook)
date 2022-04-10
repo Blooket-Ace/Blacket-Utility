@@ -12,7 +12,9 @@ let btable = ["Blizzard","Space"] // Table of boxes it'll open
 let openOverride = 0 // Opens this many boxes rather than dividing your tokens, set to 0 to disable.
 let divide = 20 // Divides your tokens by this number, which is how many boxes it'll open
  
+ console.log(REMEMBER TO JOIN THE BLOOKET ACE's  DISCORD SERVER TOO : https://discord.gg/ka4gfvUV4c )
  
+ //TWO  contributers
  
  
  
